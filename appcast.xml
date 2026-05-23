@@ -35,7 +35,20 @@
     
     
     
+    
     <item>
+      <title>Version 1.8.2</title>
+      <pubDate>Sat, 23 May 2026 13:21:42 +0000</pubDate>
+      <sparkle:version>1.8.2</sparkle:version>
+      <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/patriktjaderqvist/easykvm-releases/releases/download/v1.8.2/EasyKVM-1.8.2.zip"
+        sparkle:edSignature="D6/8A/IKGpp3S+7sU4qO26JHDtrsJC26wZtceTzssaqXx8tGQBZF3jHAugbr4+HSZLnjSpqH3U7EanQH8D7GBA=="
+        length="1541285"
+        type="application/octet-stream"/>
+    </item>
+<item>
       <title>Version 1.8.0</title>
       <pubDate>Sat, 23 May 2026 13:11:23 +0000</pubDate>
       <sparkle:version>1.8.0</sparkle:version>
