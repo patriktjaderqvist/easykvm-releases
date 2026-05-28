@@ -50,7 +50,20 @@
     
     
     
+    
     <item>
+      <title>Version 1.9.5</title>
+      <pubDate>Thu, 28 May 2026 07:59:28 +0000</pubDate>
+      <sparkle:version>1.9.5</sparkle:version>
+      <sparkle:shortVersionString>1.9.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/patriktjaderqvist/easykvm-releases/releases/download/v1.9.5/EasyKVM-1.9.5.zip"
+        sparkle:edSignature="obXzf6Fzm8nElC2UvxhwEcA1MMClSEC+COtvudB7Pmgxrj/ET3gkeJFglkdCMstLtDIv9S3+he3txE5TIDU+BA=="
+        length="1546475"
+        type="application/octet-stream"/>
+    </item>
+<item>
       <title>Version 1.9.4</title>
       <pubDate>Wed, 27 May 2026 22:40:39 +0000</pubDate>
       <sparkle:version>1.9.4</sparkle:version>
