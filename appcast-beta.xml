@@ -6,7 +6,20 @@
     <description>EasyKVM update feed</description>
     <language>en</language>
 
+    
     <item>
+      <title>Version 1.9.35</title>
+      <pubDate>Sat, 05 Sep 2026 07:48:08 +0000</pubDate>
+      <sparkle:version>1.9.35</sparkle:version>
+      <sparkle:shortVersionString>1.9.35</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/patriktjaderqvist/easykvm-releases/releases/download/v1.9.35/EasyKVM-1.9.35.zip"
+        sparkle:edSignature="/3D5EBQZH52TEFdPVj07NUgsSHJuH3uo+K+HNqeDAjzXJrW/BIUFNmiFYRRnaPoJXaSuFgfiJyi1myzqnHSfCA=="
+        length="1589737"
+        type="application/octet-stream"/>
+    </item>
+<item>
       <title>Version 1.9.34</title>
       <pubDate>Fri, 21 Aug 2026 19:37:16 +0000</pubDate>
       <sparkle:version>1.9.34</sparkle:version>
