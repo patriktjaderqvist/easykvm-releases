@@ -5,22 +5,6 @@
     <link>https://github.com/patriktjaderqvist/easykvm-releases</link>
     <description>EasyKVM update feed</description>
     <language>en</language>
-
-    
-    
-    
-    <item>
-      <title>Version 1.9.37</title>
-      <pubDate>Wed, 09 Sep 2026 14:30:23 +0000</pubDate>
-      <sparkle:version>1.9.37</sparkle:version>
-      <sparkle:shortVersionString>1.9.37</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/patriktjaderqvist/easykvm-releases/releases/download/v1.9.37/EasyKVM-1.9.37.zip"
-        sparkle:edSignature="8Lt+dsoPYvO/heu4K7Xzh2M7qP6SRnAPecezNS47W6wX4uWsNtlesjodtOSOrElAeb6LzlNe8zwDV9c9P1uuCg=="
-        length="1625962"
-        type="application/octet-stream"/>
-    </item>
 <item>
       <title>Version 1.9.36</title>
       <pubDate>Sat, 05 Sep 2026 23:16:14 +0000</pubDate>
